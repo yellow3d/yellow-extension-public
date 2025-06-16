@@ -9,11 +9,11 @@ The latest stable release of the Yellow browser extension.
 
 ## Version
 
-Current version: `0.5.0-dev.14`
+Current version: `0.5.0`
 
 ## Release Notes
 
-## [0.5.0-dev.14](https://github.com/yellow3d/dummy-scratchpad-deleteme/compare/v0.4.0-dev.14...v0.5.0-dev.14) (2025-06-16)
+## [0.5.0](https://github.com/yellow3d/dummy-scratchpad-deleteme/compare/v0.4.0...v0.5.0) (2025-06-16)
 
 
 ### Features
@@ -47,6 +47,7 @@ Current version: `0.5.0-dev.14`
 * missing comment ([38fea7a](https://github.com/yellow3d/dummy-scratchpad-deleteme/commit/38fea7aeeac80551bf232001ce94409bbb59a8b0))
 * permission issue ([af3703c](https://github.com/yellow3d/dummy-scratchpad-deleteme/commit/af3703c9a3bd0277599ece3dae6bced51d6838c8))
 * replace deprecated action ([0fdf609](https://github.com/yellow3d/dummy-scratchpad-deleteme/commit/0fdf6099a06538778dea62fa9bd7405e7e92422b))
+* reset version to 0.4.0 to allow proper production release ([27a21e4](https://github.com/yellow3d/dummy-scratchpad-deleteme/commit/27a21e40b84badebe5b8229414c7a1017efd5e3f))
 * **slack-notify:** update header conversion to support ## headers in Slack notifications ([2a4d4b4](https://github.com/yellow3d/dummy-scratchpad-deleteme/commit/2a4d4b424e6af31c0d14fa7420e7cded59a190b4))
 * stop skipping github release ([5708c7e](https://github.com/yellow3d/dummy-scratchpad-deleteme/commit/5708c7e732477140cc241aa9888b7bdc006cf534))
 * unify config ([d7e03f2](https://github.com/yellow3d/dummy-scratchpad-deleteme/commit/d7e03f2fd76a504c1a3a2d79bee7ae5f8d2e0a99))
