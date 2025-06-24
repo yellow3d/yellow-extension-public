@@ -9,16 +9,11 @@ The latest stable release of the Yellow browser extension.
 
 ## Version
 
-Current version: `0.1.0`
+Current version: `0.1.1`
 
 ## Release Notes
 
-* Merge pull request #44 from yellow3d/dev (2a28170)
-* Update secure-proxy URL (#59) (f74e7cb)
-* Merge pull request #56 from yellow3d/html-sanitize (120e081)
-* Merge branch 'dev' into html-sanitize (4bd760c)
-* ci: bump to 0.0.1-pr56.0 [skip ci] (b9332b3)
-* Add allowed tags and allowed attributes to html injection during sanitation (4cf3506)
+* Merge pull request #62 from yellow3d/dev (d57798f)
 
 ## Installation
 
