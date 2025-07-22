@@ -9,11 +9,13 @@ The latest stable release of the Yellow browser extension.
 
 ## Version
 
-Current version: `0.2.1`
+Current version: `0.2.2`
 
 ## Release Notes
 
-* Merge pull request #95 from yellow3d/dev (8593638)
+* chore(release): trigger release (0a34747)
+* chore(release): bump version to 0.2.2 (ac7ff36)
+* Merge pull request #100 from yellow3d/dev (48581ed)
 
 ## Installation
 
